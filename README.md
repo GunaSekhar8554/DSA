@@ -62,11 +62,16 @@
 
 ### DSA Cheat Sheets
 
-[Faraz]()
+[Faraz](https://docs.google.com/spreadsheets/d/1-)
+
 [Striver](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/)
+
 [Love Babber](https://drive.google.com/file/d/1FMdN_OCfOI0iAeDlqswCiC2DZzD4nPsb/view?pli=1)
+
 [Rohit negi](https://docs.google.com/spreadsheets/d/1Pud-)
-[power Couple](https://leetcode.com/problem-list/top-interview-questions/
-)
+
+[power Couple](https://leetcode.com/problem-list/top-interview-questions/)
+
 [Apna College](https://docs.google.com/spreadsheets/d/1hXserPuxVoWMG9Hs7y8wVdRCJTcj3xMBAEYUOXQ5Xag/edit#gid=0)
+
 [Rohit Negi Puzzle]( https://docs.google.com/spreadsheets/d/1zQs62-IO43qGzf83FIKtuxTUBDGI3d4qLXpO426z-vg/edit#gid=0)
